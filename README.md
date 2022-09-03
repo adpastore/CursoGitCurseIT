@@ -1,5 +1,3 @@
 # CursoGitCurseIT
-Master
-modificacion
-Prueba de combinacion de trabajos.
-Linea adhisional a este fin.
+Rama destinada a ser opcion de bajada.
+Rama D
